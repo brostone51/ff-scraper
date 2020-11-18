@@ -1,0 +1,4 @@
+https://www.some-stat-site.com/years/2020/passingyardage.html,passing-yardage
+https://www.some-stat-site.com/years/2020/rushingyardage.html,rushing-yardage
+https://www.some-stat-site.com/years/2020/receivingyardage.html,receiving-yardage
+https://www.some-stat-site.com/years/2020/specialteamsyardage.html,specialteams-yardage
