@@ -136,3 +136,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+
+# Inputs to this module
+inputs.txt
+
+# Outputs from this module
+*.csv
